@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataExample/addItemViewController.swift"
+            timestampString = "537044905.984767"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoreDataExample/addItemViewController.swift"
+            timestampString = "537044905.985329"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreDataExample.addItemViewController.imagePickerController(picker: Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImagePickerController&gt;, didFinishPickingImage: Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImage&gt;, editingInfo: Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSDictionary&gt;) -&gt; ()"
+                  moduleName = "CoreDataExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Bibin/Desktop/basicCoreDataExample-master/CoreDataExample/addItemViewController.swift"
+                  timestampString = "537044722.5148799"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CoreDataExample.addItemViewController.imagePickerController(picker: Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImagePickerController&gt;, didFinishPickingImage: Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImage&gt;, editingInfo: Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.NSDictionary&gt;) -&gt; ()"
+                  moduleName = "CoreDataExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Bibin/Desktop/basicCoreDataExample-master/CoreDataExample/addItemViewController.swift"
+                  timestampString = "537044722.51917"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
